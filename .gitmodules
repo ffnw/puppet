@@ -1,0 +1,56 @@
+[submodule "environments/master/modules/hood"]
+	path = environments/master/modules/hood
+	url = git@github.com:ffnw/puppet-hood.git
+	branch = master
+[submodule "environments/master/modules/dhcp"]
+	path = environments/master/modules/dhcp
+	url = git@github.com:ffnw/puppet-dhcp.git
+	branch = master
+[submodule "environments/master/modules/batman"]
+	path = environments/master/modules/batman
+	url = git@github.com:ffnw/puppet-batman.git
+	branch = master
+[submodule "environments/master/modules/network"]
+	path = environments/master/modules/network
+	url = git@github.com:ffnw/puppet-network.git
+	branch = master
+[submodule "environments/master/modules/ibgp"]
+	path = environments/master/modules/ibgp
+	url = git@github.com:ffnw/puppet-ibgp.git
+	branch = master
+[submodule "environments/master/modules/ffrl"]
+	path = environments/master/modules/ffrl
+	url = git@github.com:ffnw/puppet-ffrl.git
+	branch = master
+[submodule "environments/master/modules/icvpn"]
+	path = environments/master/modules/icvpn
+	url = git@github.com:ffnw/puppet-icvpn.git
+	branch = master
+[submodule "environments/master/modules/router"]
+	path = environments/master/modules/router
+	url = git@github.com:ffnw/puppet-router.git
+	branch = master
+[submodule "environments/master/modules/user"]
+	path = environments/master/modules/user
+	url = git@github.com:ffnw/puppet-user.git
+	branch = master
+[submodule "environments/master/modules/grmlzsh"]
+	path = environments/master/modules/grmlzsh
+	url = git@github.com:ffnw/puppet-grmlzsh.git
+	branch = master
+[submodule "environments/master/modules/bird"]
+	path = environments/master/modules/bird
+	url = git@github.com:ffnw/puppet-bird.git
+	branch = master
+[submodule "environments/master/modules/fastd"]
+	path = environments/master/modules/fastd
+	url = git@github.com:ffnw/puppet-fastd.git
+	branch = master
+[submodule "environments/master/modules/backbone"]
+	path = environments/master/modules/backbone
+	url = git@github.com:ffnw/puppet-backbone.git
+	branch = master
+[submodule "environments/master/data"]
+	path = environments/master/data
+	url = git@github.com:ffnw/puppet-data.git
+	branch = master

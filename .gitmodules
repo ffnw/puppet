@@ -54,3 +54,7 @@
 	path = environments/master/data
 	url = https://github.com/ffnw/puppet-data.git
 	branch = master
+[submodule "environments/master/modules/ipcalc"]
+	path = environments/master/modules/ipcalc
+	url = https://github.com/ffnw/puppet-ipcalc.git
+	branch = master

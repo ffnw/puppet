@@ -1,60 +1,63 @@
 [submodule "environments/master/modules/hood"]
 	path = environments/master/modules/hood
-	url = https://github.com/ffnw/puppet-hood.git
+	url = git@github.com:ffnw/puppet-hood.git
 	branch = master
 [submodule "environments/master/modules/dhcp"]
 	path = environments/master/modules/dhcp
-	url = https://github.com/ffnw/puppet-dhcp.git
+	url = git@github.com:ffnw/puppet-dhcp.git
 	branch = master
 [submodule "environments/master/modules/batman"]
 	path = environments/master/modules/batman
-	url = https://github.com/ffnw/puppet-batman.git
+	url = git@github.com:ffnw/puppet-batman.git
 	branch = master
 [submodule "environments/master/modules/network"]
 	path = environments/master/modules/network
-	url = https://github.com/ffnw/puppet-network.git
+	url = git@github.com:ffnw/puppet-network.git
 	branch = master
 [submodule "environments/master/modules/ibgp"]
 	path = environments/master/modules/ibgp
-	url = https://github.com/ffnw/puppet-ibgp.git
+	url = git@github.com:ffnw/puppet-ibgp.git
 	branch = master
 [submodule "environments/master/modules/ffrl"]
 	path = environments/master/modules/ffrl
-	url = https://github.com/ffnw/puppet-ffrl.git
+	url = git@github.com:ffnw/puppet-ffrl.git
 	branch = master
 [submodule "environments/master/modules/icvpn"]
 	path = environments/master/modules/icvpn
-	url = https://github.com/ffnw/puppet-icvpn.git
+	url = git@github.com:ffnw/puppet-icvpn.git
 	branch = master
 [submodule "environments/master/modules/router"]
 	path = environments/master/modules/router
-	url = https://github.com/ffnw/puppet-router.git
+	url = git@github.com:ffnw/puppet-router.git
 	branch = master
 [submodule "environments/master/modules/user"]
 	path = environments/master/modules/user
-	url = https://github.com/ffnw/puppet-user.git
+	url = git@github.com:ffnw/puppet-user.git
 	branch = master
 [submodule "environments/master/modules/grmlzsh"]
 	path = environments/master/modules/grmlzsh
-	url = https://github.com/ffnw/puppet-grmlzsh.git
+	url = git@github.com:ffnw/puppet-grmlzsh.git
 	branch = master
 [submodule "environments/master/modules/bird"]
 	path = environments/master/modules/bird
-	url = https://github.com/ffnw/puppet-bird.git
+	url = git@github.com:ffnw/puppet-bird.git
 	branch = master
 [submodule "environments/master/modules/fastd"]
 	path = environments/master/modules/fastd
-	url = https://github.com/ffnw/puppet-fastd.git
+	url = git@github.com:ffnw/puppet-fastd.git
 	branch = master
 [submodule "environments/master/modules/backbone"]
 	path = environments/master/modules/backbone
-	url = https://github.com/ffnw/puppet-backbone.git
+	url = git@github.com:ffnw/puppet-backbone.git
 	branch = master
 [submodule "environments/master/data"]
 	path = environments/master/data
-	url = https://github.com/ffnw/puppet-data.git
+	url = git@github.com:ffnw/puppet-data.git
 	branch = master
 [submodule "environments/master/modules/ipcalc"]
 	path = environments/master/modules/ipcalc
-	url = https://github.com/ffnw/puppet-ipcalc.git
+	url = git@github.com:ffnw/puppet-ipcalc.git
 	branch = master
+[submodule "environments/master/modules/gluoncollector"]
+	path = environments/master/modules/gluoncollector
+	url = https://github.com/ffnw/puppet-gluoncollector.git

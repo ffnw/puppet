@@ -61,6 +61,12 @@
 [submodule "environments/master/modules/gluoncollector"]
 	path = environments/master/modules/gluoncollector
 	url = https://github.com/ffnw/puppet-gluoncollector.git
+	branch = master
 [submodule "environments/master/modules/tunneldigger"]
 	path = environments/master/modules/tunneldigger
 	url = https://github.com/ffnw/puppet-tunneldigger.git
+	branch = master
+[submodule "environments/master/modules/hopglassserver"]
+	path = environments/master/modules/hopglassserver
+	url = https://github.com/ffnw/puppet-hopglassserver.git
+	branch = master
